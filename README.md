@@ -1,6 +1,6 @@
 # Machine-Learning-Projects
 
-## Project on Wisconsin Breast Cancer Dataset:
+## Project on Wisconsin Breast Cancer Dataset
 
 file: WBCD_ML_algorithms_evaluation.ipynb
 
